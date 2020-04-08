@@ -1,7 +1,7 @@
 # blog
 前端博客
 
-## flutter系列（因为某些原因，以后再写）
+## flutter学习系列（因为一些原因，暂且搁置）
 
 1、[环境搭建](https://github.com/webXP999/blog/issues/2)
 
